@@ -4,7 +4,7 @@
     "sources": [
         "style.scss",
         "scss/_colors.scss",
-        "scss/_tipografi.scss",
+        "scss/_typography.scss",
         "scss/_spacing.scss",
         "scss/_layout.scss"
     ],
