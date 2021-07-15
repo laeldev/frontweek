@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import 'scss/colors';
+@import 'scss/tipografi';
+
+
+body{
+  width: 100%;
+  
+  background-color: $black-dark;
+}
+
+.border{
+  border: 1px solid red;
+}
+
+
+@import 'scss/spacing';
+@import 'scss/layout';
