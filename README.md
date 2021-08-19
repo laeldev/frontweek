@@ -10,7 +10,7 @@
 
 ## DESENVOLVIMENTO
 
-### Foi usado HTML CSS e Javascript 
+### Foi usado HTML e CSS
 ![html_css](https://user-images.githubusercontent.com/40779811/129995594-86728c0c-c379-45c8-a21d-578615ef8f62.png)
 
 
