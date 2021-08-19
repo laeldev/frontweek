@@ -11,7 +11,7 @@
 ## DESENVOLVIMENTO
 
 ### Foi usado HTML CSS e Javascript 
-![html_css_js](https://user-images.githubusercontent.com/40779811/129994804-8bf740a4-7617-46fc-b3a6-0deeed0a20f1.png)
+![html_css](https://user-images.githubusercontent.com/40779811/129995594-86728c0c-c379-45c8-a21d-578615ef8f62.png)
 
 
 ## Desenvolvido por
